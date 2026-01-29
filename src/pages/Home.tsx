@@ -34,8 +34,7 @@ function Home() {
   return (
     <>
       <div className="app-header">
-        <h1>✨ PokéDex</h1>
-        <p>Discover amazing creatures with smooth animations</p>
+        <h1>🐦‍🔥PokéDex</h1>
       </div>
 
       <div className="container">
